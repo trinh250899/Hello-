@@ -1,6 +1,6 @@
 import React from 'react';
 
-import OutputScreenRow from './outputScreenRow.js';
+import OutputScreenRow from './components/outputScreenRow.js';
 
 const OutputScreen = (props) => {
     return (

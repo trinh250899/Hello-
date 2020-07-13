@@ -1,7 +1,8 @@
 import React from 'react';
-import CalculatorTitle from './calculatorTitle.js';
-import OutputScreen from './outputScreen.js';
-import Button from './button.js';
+import CalculatorTitle from './components/calculatorTitle.js';
+import OutputScreen from './components/outputScreen.js';
+import Button from './components/button.js';
+
 
 class Calculator extends React.Component {
     constructor(props) {
